@@ -1,0 +1,26 @@
+<!DocType html>
+<html> 
+  <head> 
+    <title> Responsive Navigation </title>
+    <meta name="viewport" content="width=device-width, initial-content 1.0">
+  </head>
+  <body>
+     <nav> 
+      <div class="logo"> Callis Digital Network </div>
+        <ul class="nav-links">
+          <li><a href="#index">Home </a> </li>
+          <li><a href="#about">About Us </a> </li>
+          <li><a href="#service">Services </a> </li>
+          <li><a href="#contact">Contact Us </a> </li>
+          <li><a href="#news">News and Update </a> </li>
+        </ul>
+       <div class="burger"> 
+         <div class="line1"></div>
+         <div class="line2"></div>
+         <div class="line3"> </div>
+       </div>
+      </nav>
+      
+      
+      </body>
+      </html>
